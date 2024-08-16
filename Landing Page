@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Hearts and Code </title>
+	</head>
+	<body>
+		<h1>Null</h2>
+		<<p>Todays date is {{date}}</p> <!-- Displays date variable created in python -->
+		<p>null</p>
+		
+		<br>
+		<p>null</p>
+		<p>null</p>
+		<img src="null">
+		<br>
+		<p>null</p>
+		<a href="https://bringatrailer.com/listing/1956-chevrolet-bel-air-283-v8-sedan-7/">54 Bel Air</a>
+		<br>
+		<p>null</p>
+		<a href="https://google.com"> Bel Air FAQ</a>
+		<br>		
+		<a href="/home">Home Page</a>
+		<br>
+		<a href="/page2">Page 2 "Cats"</a>
+	</body>
+</html>	
