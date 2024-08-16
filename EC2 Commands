@@ -1,0 +1,10 @@
+sudo su
+yum update -y
+yum install -y httpd
+cd /var/www/html
+wget https://github.com/Brocksamson4556/Server_Home_Page/archive/refs/heads/main.zip
+unzip main.zip
+cp -r Server_Home_Page-main/* /var/www/html/
+rm -rf Server_Home_Page-main main.zip
+systemctl enable httpd 
+systemctl start httpd
